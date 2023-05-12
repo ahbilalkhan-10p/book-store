@@ -5,7 +5,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/your-username/book-store.git
+git clone (https://github.com/ahbilalkhan-10p/book-store.git)
 
 Install dependencies:
 
